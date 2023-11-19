@@ -67,7 +67,7 @@ function App() {
     <Navbar />
     <div className="App">
       {loading ? (
-        <h1>loading Now</h1>
+        <h1>Now loading</h1>
       ) : (
       <>
         <div className='pokemonCardContainer'>
